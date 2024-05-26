@@ -1,0 +1,125 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+/* Fontawesome */
+@import url('components/banner.css');
+@import url('components/cards.css');
+@import url('components/footer.css');
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+}
+
+/* h1, h2, h3, h4 {
+  font-family: cursive;
+} */
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+
+/* Basic reset */
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+body {
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+/* Banner Styles */
+/* .banner {
+  background-image: url('https://images5.alphacoders.com/888/thumb-1920-888721.jpg');
+  background-size: cover;
+  color: white;
+  text-align: center;
+  padding: 100px 20px;
+  background-position: bottom -331px right 0px;
+  background-repeat: no-repeat;
+} */
+
+/* .banner-content {
+  font-family: cursive;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.banner h1 {
+  font-size: 3em;
+  margin-bottom: 10px;
+  font-family: cursive;
+  border-radius: 20px;
+}
+
+.banner p {
+  font-size: 2em;
+  margin-bottom: 20px;
+  font-family: cursive;
+}
+
+.banner-button {
+  display: inline-block;
+  padding: 10px;
+  font-size: medium;
+  font-weight: 900;
+  color: white;
+  background-color: gold;
+  text-decoration: none;
+  border-radius: 50px;
+  transition: all 60ms ease-in-out;
+}
+
+.banner-button:hover {
+  background-color: rgb(227, 207, 88);
+}
+
+a:hover {
+  color: rgb(227, 207, 88);
+  transition: 0.3s ease;
+}
+
+.card-container h2 {
+  text-align: center;
+}
+
+.card-container {
+  padding-top: 15px;
+  padding-bottom: 25px;
+  margin: 0px;
+  background-color: black;
+  color: white;
+}
+
+.card-box {
+  display: flex;
+  width: 200;
+  justify-content: space-around;
+}
+
+.card {
+  text-align: center;
+}
+
+.footer h4 {
+  text-align: center;
+  color: rgb(85, 34, 85);
+  font-family: cursive;
+}
+
+.footer ul {
+  text-align: center;
+}
+
+.footer p {
+  text-align: center;
+} */

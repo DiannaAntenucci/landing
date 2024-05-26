@@ -1,0 +1,24 @@
+.card-container h2 {
+  text-align: center;
+}
+
+.card-container {
+  padding-top: 15px;
+  padding-bottom: 46px;
+  margin: 0px;
+  background-color: black;
+  color: white;
+}
+
+.card-box {
+  display: flex;
+  /* width: 200; */
+  justify-content: space-around;
+  padding-left: 20px;
+  padding-right: 35px;
+  border: 1px solid white;
+}
+
+.card {
+  text-align: center;
+}

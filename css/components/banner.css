@@ -1,0 +1,52 @@
+.banner {
+  background-image: url('https://images5.alphacoders.com/888/thumb-1920-888721.jpg'); /* Replace with your image URL */
+  background-size: cover;
+  /* background-position: cover;
+  justify-content: center; */
+  color: white;
+  text-align: center;
+  padding: 100px 20px;
+  background-position: bottom -331px right 0px;
+  background-repeat: no-repeat;
+}
+
+.banner-content {
+  font-family: cursive;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.banner h1 {
+  font-size: 3em;
+  margin-bottom: 10px;
+  font-family: cursive;
+  border-radius: 20px;
+}
+
+.banner p {
+  font-size: 2em;
+  margin-bottom: 20px;
+  font-family: cursive;
+}
+
+.banner-button {
+  display: inline-block;
+  padding: 10px;
+  font-size: medium;
+  font-weight: 900;
+  color: white;
+  background-color: gold;
+  text-decoration: none;
+  border-radius: 50px;
+  transition: all 60ms ease-in-out;
+}
+
+.banner-button:hover {
+  background-color: rgb(227, 207, 88);
+}
+
+a:hover {
+  color: rgb(227, 207, 88);
+  transition: 0.3s ease;
+}
